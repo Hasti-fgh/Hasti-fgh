@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭 Building : A local LLM based AI voice agent for hospital workflow (on device, privacy focused) <br>🌱Learning :  NL , ROS, RAG and Practical Problem Solving <br>🤝 Open to : Collaboration in AI, Automation Projects, and Innovation Ideas<br>💬 Ask me about : Teamwork and Engineering Fundamentals<br>⚡ Fun Fact : Multitasking between circuits, code, and life decisions.<br>
+🔭 Building : A local LLM based AI voice agent for hospital workflow (on device, privacy focused) <br>🌱Learning :  NL , ROS2,: Gazebo, Nav2, YOLO, PX4, AirSim, RAG and Practical Problem Solving <br>🤝 Open to : Collaboration in AI, Automation Projects, and Innovation Ideas<br>💬 Ask me about : Teamwork and Engineering Fundamentals<br>⚡ Fun Fact : Multitasking between circuits, code, and life decisions.<br>
 
 
 ## 🌐 Socials:
